@@ -1,0 +1,400 @@
+.div3 {
+  position: relative;
+  width: 996px;
+  height: 85.09px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div1,
+.div2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div2 {
+  flex-direction: column;
+  gap: var(--gap-0);
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 498px);
+  flex-direction: row;
+  padding: 0 0 112px;
+  box-sizing: border-box;
+}
+.imageIcon,
+.imageIcon1 {
+  position: absolute;
+  top: 12.19px;
+  left: 330.5px;
+  width: 143px;
+  height: 46px;
+  object-fit: cover;
+}
+.imageIcon1 {
+  left: 489.5px;
+  width: 160px;
+}
+.div5,
+.imageIcon2 {
+  position: absolute;
+  height: 75.39px;
+}
+.imageIcon2 {
+  top: calc(50% - 37.7px);
+  left: calc(50% + 133.5px);
+  width: 76px;
+  object-fit: cover;
+}
+.div5 {
+  top: 380.08px;
+  left: 24px;
+  width: 1080px;
+}
+.buyAndSellpngIcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 443.26px);
+  width: 886.52px;
+  height: 1119.16px;
+  object-fit: cover;
+}
+.div,
+.div6 {
+  overflow: hidden;
+}
+.div6 {
+  position: absolute;
+  top: 453.58px;
+  left: 24px;
+  width: 1080px;
+  height: 940px;
+}
+.div {
+  position: relative;
+  width: 1128px;
+  height: 1393.58px;
+  flex-shrink: 0;
+}
+.section {
+  position: absolute;
+  top: 170px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  padding: 184px var(--padding-md) var(--padding-sm);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div9 {
+  position: relative;
+  width: 1512px;
+  height: 85.09px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div7,
+.div8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div8 {
+  padding: var(--padding-xs) 0 82px;
+}
+.div7 {
+  position: absolute;
+  top: 2003.58px;
+  left: 0;
+  padding: 0 0 687px;
+}
+.div12 {
+  position: relative;
+  width: 655.98px;
+  height: 73.59px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div11 {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) 0 212px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div10,
+.div14 {
+  position: absolute;
+}
+.div10 {
+  top: 3022.36px;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) 428.015625px var(--padding-xl) 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div14 {
+  width: calc(100% - 739.61px);
+  top: 0;
+  right: 729.61px;
+  left: 10px;
+  height: 754.61px;
+}
+.div17 {
+  position: relative;
+  width: 530px;
+  height: 73.59px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div15 {
+  position: absolute;
+  top: 109.06px;
+  left: 560px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) 0 279px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div13 {
+  position: relative;
+  width: 1100px;
+  height: 754.61px;
+  flex-shrink: 0;
+}
+.section1 {
+  position: absolute;
+  top: 4096.36px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div23 {
+  position: relative;
+  width: 936px;
+  height: 60px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div21,
+.div25 {
+  position: absolute;
+}
+.div21 {
+  top: 80px;
+  left: calc(50% - 468px);
+  display: flex;
+  flex-direction: row;
+  padding: 44.6875px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div25 {
+  top: calc(50% - 511px);
+  left: calc(50% - 450px);
+  width: 900px;
+  height: 98.69px;
+}
+.div20,
+.div26 {
+  position: absolute;
+  top: 1273.38px;
+  left: 216px;
+  width: 1080px;
+  height: 318px;
+}
+.div20 {
+  top: 5106.97px;
+  left: 0;
+  width: 1512px;
+  height: 1671.38px;
+  background-image: url(../../public/div@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.goToCryptocomDeFi {
+  position: absolute;
+  top: 21.13px;
+  left: calc(50% - 128.85px);
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+}
+.svgIcon {
+  position: absolute;
+  top: 18.5px;
+  left: 267.7px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.button {
+  position: relative;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 313.7px;
+  height: 58px;
+  flex-shrink: 0;
+}
+.div27,
+.div28,
+.section2 {
+  display: flex;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div28 {
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  gap: 302.1px;
+}
+.div27,
+.section2 {
+  flex-direction: row;
+}
+.div27 {
+  padding: 135.6875px 560px 135.576171875px 10px;
+}
+.section2 {
+  position: absolute;
+  top: 6778.34px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  padding: var(--padding-sm) var(--padding-lg);
+}
+.cryptocurrencyIn1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.cryptocurrencyIn {
+  position: relative;
+  letter-spacing: -0.96px;
+  line-height: 73.6px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div33 {
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 157.390625px 0 155.609375px;
+  box-sizing: border-box;
+}
+.div32,
+.div33,
+.div34 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div34 {
+  overflow: hidden;
+  flex-direction: row;
+  padding: 0 212.828125px 0.1396484375px 213.171875px;
+  box-sizing: border-box;
+  margin-top: -36.95px;
+}
+.div32 {
+  flex-direction: column;
+}
+.aboutUs,
+.div31 {
+  position: absolute;
+}
+.div31 {
+  top: -1.31px;
+  left: calc(50% - 540px);
+  display: flex;
+  flex-direction: row;
+  padding: 0 136.5px 602.09375px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aboutUs {
+  top: 21.13px;
+  left: calc(50% - 63.52px);
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+}
+.svgIcon1 {
+  position: absolute;
+  top: 18.5px;
+  left: 133.05px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.button1 {
+  position: absolute;
+  top: 1014.36px;
+  left: 474.47px;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 179.05px;
+  height: 58px;
+  font-size: var(--font-size-base);
+  color: #fff;
+}
+.div30 {
+  position: relative;
+  width: 1128px;
+  height: 1072.36px;
+  flex-shrink: 0;
+}
+.section3 {
+  position: absolute;
+  top: 7775.98px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.cryptocomByHtmltodesign {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 1512px;
+  height: 9950.39px;
+}
+.main {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 9950.39px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
